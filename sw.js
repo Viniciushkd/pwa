@@ -9,6 +9,7 @@ var urlsToCache = [
     '/img/android-chrome-192x192.png',
     '/img/apple-touch-icon.png',
     '/img/favicon.ico',
+    '/css/style.css',
     '/index.html'
 ];
 
